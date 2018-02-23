@@ -1,0 +1,1 @@
+ES_BASE_URL = ['xx.x.xx.xxx:9200']
